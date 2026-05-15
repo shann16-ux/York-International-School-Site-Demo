@@ -1,0 +1,8 @@
+{
+  "name": "York International School",
+  "description": "A premium international school providing world-class education from Early Years to Advanced Level.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
